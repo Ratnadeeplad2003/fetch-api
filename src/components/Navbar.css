@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+
+  .nav-link {
+    text-align: center;
+    padding: 10px;
+  }
+}
